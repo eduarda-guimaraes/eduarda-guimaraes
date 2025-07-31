@@ -1,4 +1,4 @@
-# Hello, I'm Eduarda Guimarães 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Hello%2C+my+name+is+Eduarda+Guimarães!)](https://git.io/typing-svg)
 
 ## 🌱 About Me
 I am a **full-stack Brazilian developer** passionate about technology and always looking for new challenges. Currently, I am diving deeper into **Artificial Intelligence** and **Web Development**. I am always seeking to improve my creativity and problem-solving skills!
@@ -39,7 +39,7 @@ Send me an email!
 
 ---
 
-# Olá, eu sou a Eduarda Guimarães 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Olá%2C+meu+nome+é+Eduarda+Guimarães!)](https://git.io/typing-svg)
 
 ## 🌱 Sobre Mim
 Sou **desenvolvedora full-stack brasileira** apaixonada por tecnologia e sempre em busca de novos desafios. Atualmente, estou me aprofundando em **Inteligência Artificial** e **Desenvolvimento Web**. Estou sempre em busca de melhorar minha criatividade e habilidades de resolução de problemas!
