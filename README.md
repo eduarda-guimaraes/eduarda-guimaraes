@@ -27,6 +27,10 @@ Here is my latest project:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🌐 Languages
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-00A86B?style=flat)<br>
+![English](https://img.shields.io/badge/English-Advanced-0077B5?style=flat)
+
 ## 📈 Languages I Use Most
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-guimaraes&layout=compact&theme=radical)
@@ -67,6 +71,10 @@ Aqui está o meu projeto mais recente:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🌐 Idiomas
+![Português](https://img.shields.io/badge/Português-Nativo-00A86B?style=flat)<br>
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-0077B5?style=flat)
 
 ## 📈 Linguagens que mais uso
 
