@@ -41,6 +41,11 @@ Send me an email!
 
 - Email: [eduardaguima2007@yahoo.com](mailto:eduardaguima2007@yahoo.com)
 
+## 🔗 Important Links
+
+[![🌐 Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduarda-guimaraes.github.io/portfolio-pessoal)
+[![💼 LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-guimaraes/)
+
 ---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Olá%2C+meu+nome+é+Eduarda+Guimarães!)](https://git.io/typing-svg)
@@ -85,6 +90,13 @@ Aqui está o meu projeto mais recente:
 Me envie um e-mail!
 
 - Email: [eduardaguima2007@yahoo.com](mailto:eduardaguima2007@yahoo.com)
+
+## 🔗 Links Importantes
+
+[![🌐 Portfólio](https://img.shields.io/badge/Ver_Portfólio_Pessoal-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduarda-guimaraes.github.io/portfolio-pessoal)
+[![💼 LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-guimaraes/)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduarda-guimaraes/eduarda-guimaraes/output/github-contribution-grid-snake-dark.svg">
