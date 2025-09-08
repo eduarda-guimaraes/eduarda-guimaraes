@@ -39,7 +39,7 @@ Here is my latest project:
 
 Send me an email!
 
-- Email: [eduardaguima2007@yahoo.com](mailto:eduardaguima2007@yahoo.com)
+- Email: [aeduardaguimaraes@gmail.com](mailto:aeduardaguimaraes@gmail.com)
 
 ## 🔗 Important Links
 
@@ -89,7 +89,7 @@ Aqui está o meu projeto mais recente:
 
 Me envie um e-mail!
 
-- Email: [eduardaguima2007@yahoo.com](mailto:eduardaguima2007@yahoo.com)
+- Email: [aeduardaguimaraes@gmail.com](mailto:aeduardaguimaraes@gmail.com)
 
 ## 🔗 Links Importantes
 
