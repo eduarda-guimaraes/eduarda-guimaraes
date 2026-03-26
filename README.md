@@ -1,102 +1,45 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Hello%2C+my+name+is+Eduarda+Guimarães!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Hello%2C+my+name+is+Eduarda+Guimarães!;QA+Tester+%26+Full-Stack+Developer)](https://git.io/typing-svg)
 
-## 🌱 About Me
-I am a **full-stack Brazilian developer** passionate about technology and always looking for new challenges. Currently, I am diving deeper into **Artificial Intelligence** and **Web Development**. I am always seeking to improve my creativity and problem-solving skills!
+## 💻 About Me
+I am a **QA Tester & Full-Stack Developer** based in Brazil. I leverage my background in development to ensure software quality through a technical and analytical lens. Currently, I am expanding my knowledge in **Test Automation with Cypress** and diving deeper into **Web Development and AI**.
 
 ## 🚀 Projects
 
-Here is my latest project:
-
-- **[Vocational Test](https://vocationaltest.com.br)**: A **final project** using AI to help young people choose their profession based on a vocational test.
-
-[![Access Vocational Test](https://img.shields.io/badge/Access_the_Vocational_Test-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20&color=FF5733)](https://vocationaltest.com.br)
+- **[Vocational Test](https://vocationaltest.com.br)**: A Full-Stack AI-powered platform for career guidance. Developed as a Capstone Project using React, Python, and OpenAI.
+- **[Arena of Champions](https://github.com/eduarda-guimaraes/arena-of-champions)**: A terminal-based RPG battle system developed in **Java** to apply Object-Oriented Programming (OOP) concepts and game logic.
 
 ## 🛠️ Tools & Technologies
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+### 🧪 Quality Assurance & Learning
+![Cypress](https://img.shields.io/badge/-Cypress_(Learning)-17202C?style=flat&logo=cypress&logoColor=white) 
+
+### 💻 Development
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🌐 Languages
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-00A86B?style=flat)<br>
-![English](https://img.shields.io/badge/English-Advanced-0077B5?style=flat)
-
-## 📈 Languages I Use Most
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-guimaraes&layout=compact&theme=radical)
-
-## 📬 Let's Chat
-
-Send me an email!
-
-- Email: [aeduardaguimaraes@gmail.com](mailto:aeduardaguimaraes@gmail.com)
-
-## 🔗 Important Links
-
-[![🌐 Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduarda-guimaraes.github.io/portfolio-pessoal)
-[![💼 LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-guimarães-75a8462b1)
-
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Olá%2C+meu+nome+é+Eduarda+Guimarães!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&random=false&width=500&lines=Olá%2C+meu+nome+é+Eduarda+Guimarães!;QA+Tester+%26+Full-Stack+Dev)](https://git.io/typing-svg)
 
-## 🌱 Sobre Mim
-Sou **desenvolvedora full-stack brasileira** apaixonada por tecnologia e sempre em busca de novos desafios. Atualmente, estou me aprofundando em **Inteligência Artificial** e **Desenvolvimento Web**. Estou sempre em busca de melhorar minha criatividade e habilidades de resolução de problemas!
+## 🕵️‍♀️ Sobre Mim
+Sou **QA Tester e Desenvolvedora Full-Stack**. Utilizo minha base técnica em desenvolvimento para garantir a qualidade de software com um olhar analítico. Atualmente, estou empenhada em aprender **Automação de Testes com Cypress** e aprimorar meus conhecimentos em **Desenvolvimento Web e IA**.
 
 ## 🚀 Projetos
 
-Aqui está o meu projeto mais recente:
+- **[Vocational Test](https://vocationaltest.com.br)**: Plataforma Full-Stack com IA para orientação vocacional, desenvolvida como TCC utilizando React, Python e OpenAI.
+- **[Arena of Champions](https://github.com/eduarda-guimaraes/arena-of-champions)**: Sistema de batalha RPG via terminal desenvolvido em **Java** para aplicar conceitos de POO e lógica de jogos.
 
-- **[Vocational Test](https://vocationaltest.com.br)**: Um **TCC** de IA para ajudar jovens a escolherem sua profissão com base em um teste vocacional.
-
-[![Acesse o Vocational Test](https://img.shields.io/badge/Acesse_o_Vocational_Test-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20&color=FF5733)](https://vocationaltest.com.br)
-
-## 🛠️ Ferramentas e Tecnologias
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🌐 Idiomas
-![Português](https://img.shields.io/badge/Português-Nativo-00A86B?style=flat)<br>
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-0077B5?style=flat)
-
-## 📈 Linguagens que mais uso
-
+## 📈 My Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-guimaraes&layout=compact&theme=radical)
 
-## 📬 Vamos Conversar
-
-Me envie um e-mail!
-
-- Email: [aeduardaguimaraes@gmail.com](mailto:aeduardaguimaraes@gmail.com)
-
-## 🔗 Links Importantes
-
-[![🌐 Portfólio](https://img.shields.io/badge/Ver_Portfólio_Pessoal-000?style=for-the-badge&logo=vercel&logoColor=white)](https://eduarda-guimaraes.github.io/portfolio-pessoal)
-[![💼 LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-guimarães-75a8462b1)
-
----
+## 📬 Let's Chat / Vamos Conversar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaguimaraess/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aeduardaguimaraes@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduarda-guimaraes/eduarda-guimaraes/output/github-contribution-grid-snake-dark.svg">
