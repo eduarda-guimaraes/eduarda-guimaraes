@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=FF69B4&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Eduarda+Guimar%C3%A3es!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=FF69B4&width=550&lines=Hello%2C+I'm+Eduarda+Guimar%C3%A3es!)](https://git.io/typing-svg)
 
 ## 💻 About Me
 
@@ -10,7 +10,7 @@ My development background helps me understand applications beyond the user inter
 
 I enjoy working with Software Quality, but I am also passionate about programming and open to opportunities in both **Quality Assurance and Software Development**.
 
-I will soon begin a degree in **Information Systems** and I am excited to continue learning and growing professionally.
+I am currently studying **Information Systems** at university and I am excited to continue learning and growing professionally.
 
 ---
 
@@ -47,7 +47,7 @@ Minha base em desenvolvimento me ajuda a compreender as aplicações além da in
 
 Gosto de trabalhar com Qualidade de Software, mas também sou apaixonada por programação e estou aberta a oportunidades tanto em **QA quanto em Desenvolvimento de Software**.
 
-Em breve, iniciarei a graduação em **Sistemas de Informação** e estou animada para continuar aprendendo e evoluindo profissionalmente.
+Atualmente, estou cursando **Sistemas de Informação** na faculdade e estou animada para continuar aprendendo e evoluindo profissionalmente.
 
 ---
 
